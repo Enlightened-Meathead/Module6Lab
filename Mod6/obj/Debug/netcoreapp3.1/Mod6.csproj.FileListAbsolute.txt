@@ -1,0 +1,13 @@
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.exe
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.deps.json
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.runtimeconfig.json
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.runtimeconfig.dev.json
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.dll
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\bin\Debug\netcoreapp3.1\Mod6.pdb
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.csprojAssemblyReference.cache
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.AssemblyInfoInputs.cache
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.AssemblyInfo.cs
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.csproj.CoreCompileInputs.cache
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.dll
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.pdb
+C:\Users\local-stephen\RiderProjects\Mod6\Mod6\obj\Debug\netcoreapp3.1\Mod6.genruntimeconfig.cache
